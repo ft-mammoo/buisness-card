@@ -1,0 +1,28 @@
+body {
+  /*background-color: rgba(0, 0, 0, 0.699);*/
+  background-image: url(assets/img/ok.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  margin: 5px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.business-card {
+  width: 300px;
+  background-color: #feffffc2;
+  padding: 20px;
+  margin: 100px auto 0 auto;
+  text-align: center;
+  font-size: 16px;
+}
+
+.profile-image {
+  max-width: 100%;
+}
